@@ -2,7 +2,7 @@
 
 Included examples:
 
- - MST Bookshop: [mst-example-bookshop/](https://github.com/testdouble/react-state-examples/tree/main/mobx/mst-example-bookshop)
- - MST Boxes: [mst-example-boxes/](https://github.com/testdouble/react-state-examples/tree/main/mobx/mst-example-boxes)
- - MST TodoMVC: [mst-example-todomvc/](https://github.com/testdouble/react-state-examples/tree/main/mobx/mst-example-todomvc)
+ - MST Bookshop: [mst-bookshop/](https://github.com/testdouble/react-state-examples/tree/main/mobx/mst-bookshop)
+ - MST Boxes: [mst-boxes/](https://github.com/testdouble/react-state-examples/tree/main/mobx/mst-boxes)
+ - MST TodoMVC: [mst-todomvc/](https://github.com/testdouble/react-state-examples/tree/main/mobx/mst-todomvc)
  - TodoMVC: [todomvc/](https://github.com/testdouble/react-state-examples/tree/main/mobx/todomvc)
