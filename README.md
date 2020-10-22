@@ -2,8 +2,8 @@
 
 Examples by library/approach:
 
-- [ Redux ](redux/README.md)
-- [ Mobx ](mobx/README.md)
-- [ Apollo ](apollo/README.md)
-- [ React Query ](react_query/README.md)
-- [ React Context ](react_context/README.md)
+- [ Redux ](https://github.com/testdouble/react-state-examples/tree/main/redux/)
+- [ Mobx ](https://github.com/testdouble/react-state-examples/tree/main/mobx/)
+- [ Apollo ](https://github.com/testdouble/react-state-examples/tree/main/apollo/)
+- [ React Query ](https://github.com/testdouble/react-state-examples/tree/main/react_query/)
+- [ React Context ](https://github.com/testdouble/react-state-examples/tree/main/react_context/)
